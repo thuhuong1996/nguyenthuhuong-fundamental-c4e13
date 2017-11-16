@@ -1,2 +1,0 @@
-n="Banhtrangtron"
-m="Comrang"
